@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Jirakit Aiadhet",
+      "email": "a@test.com",
+      "password": "1q2w3e4r",
+      "gender": "Male",
+      "address": "999/999 songkhla",
+      "birthdate": "2002-04-23",
+      "age": "19"
+    },
+    {
+      "id": 2,
+      "username": "Thanawat Kongsisang",
+      "email": "b@test.com",
+      "password": "1q2w3e4r",
+      "gender": "Male",
+      "address": "999/999 songkhla",
+      "birthdate": "2002-04-23",
+      "age": "19"
+    },
+    {
+      "id": 3,
+      "username": "Jimmy Kimmy",
+      "email": "e@test.com",
+      "password": "1q2w3e4r",
+      "gender": "Female",
+      "address": "999/999 songkhla",
+      "birthdate": "2002-04-23",
+      "age": "19"
+    },
+    {
+      "id": 5,
+      "username": "Toey",
+      "email": "t@mail.com",
+      "password": "1q2w3e4r",
+      "gender": "Male",
+      "address": "999/999",
+      "birthdate": "2011-11-11",
+      "age": "100"
+    }
+  ],
+  "catalogs": [
+    {
+      "id": 1,
+      "itemName": "submarine",
+      "detail": "no engine",
+      "price": "150",
+      "rating": 5,
+      "images": "https://images.unsplash.com/photo-1588947130823-db168fa854ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "date": "2023-09-10"
+    },
+    {
+      "id": 3,
+      "itemName": "boeing 747-8",
+      "detail": "The Boeing 747-8 is a wide-body airliner formerly developed by Boeing Commercial Airplanes, and the largest variant of the 747. After introducing the 747-400, Boeing considered larger 747 versions as alternatives to the proposed double-deck Airbus A3XX, later developed as the A380. The stretched 747 Advanced was launched as the 747-8 on November 14, 2005, for a market forecast of 300 aircraft. The first 747-8F Freighter performed its maiden flight on February 8, 2010, and the passenger 747-8I Intercontinental followed suit on March 20, 2011. The cargo version was first delivered in October 2011 and the airliner began commercial service in June 2012.",
+      "price": "140",
+      "rating": 3.5,
+      "images": "https://images.unsplash.com/photo-1483375801503-374c5f660610?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "date": "2023-07-12"
+    },
+    {
+      "id": 4,
+      "itemName": "Cat",
+      "detail": "Cat detail",
+      "price": "99",
+      "rating": 4.5,
+      "images": "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_640.jpg",
+      "date": "2023-09-10"
+    },
+    {
+      "id": 5,
+      "itemName": "Doss",
+      "detail": "Doss",
+      "price": "999",
+      "rating": 5,
+      "images": "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_640.jpg",
+      "date": "2023-09-10"
+    }
+  ]
+}
